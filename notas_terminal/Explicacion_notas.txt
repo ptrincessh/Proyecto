@@ -1,0 +1,12 @@
+RESUMEN: FUNCIÓN BUSCAR NOTAS
+
+La función "buscar_notas()" permite buscar
+una palabra dentro de las notas guardadas.
+Primero verifica si el archivo existe; si no,
+muestra un mensaje. Luego pide una palabra 
+al usuario y revisa cada línea del archivo 
+para encontrar coincidencias, sin importar m
+ayúsculas o minúsculas. Si encuentra resultados,
+los muestra en pantalla; si no, indica que no hubo 
+coincidencias. Además, se agrega una nueva opción 
+en el menú para usar esta función.
