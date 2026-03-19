@@ -1,0 +1,4 @@
+Comandos básicos:
+-ls: Listar archivos
+-cd: Cambiar de carpeta
+-mkdir: Crear carpeta
